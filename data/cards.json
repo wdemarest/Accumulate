@@ -1,0 +1,13 @@
+[
+    {
+        "name": "stone",
+        "type": "material",
+        "properties": []
+    },
+    {
+        "name": "wood",
+        "type": "material",
+        "properties": ["flammable"]
+    }
+
+]
